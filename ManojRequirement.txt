@@ -1,0 +1,38 @@
+AWS:
+
+1)Automatically how to deploy the server and what are the tools for that?
+2) EBS and root volume, what if we detach the EBS volume
+how does software will work
+3) How to handle the ELB for multizone
+4) How to handle the passwords of RDS while creating launching root passwords.
+5) How would you handle autoscaling ? when you would do you do it
+How many servers can attach one elb?
+
+
+Chef:
+How to install chefclient
+how to install the software basically chefclient
+How to make webserver using chef or ansible
+
+Monitoring 
+Sensu, Nagios, 
+
+Launch web applicatio																																																																																																																																																																																																																																																																																						n or what are all the things do you things in the server?
+what is route3 policy, why would you use that one ?
+
+
+Chef:
+
+
+
+
+Docker:																																																																																																																																																																																																																																																																																																																																																																																																																																																																				
+Real time scenarios for docker
+why did you use the docker
+how did you launch the docker?
+
+
+Git:
+
+
+How did you handle deployment the, Code get migrated what would you do in your delivery process.																																																																																																																																																		
